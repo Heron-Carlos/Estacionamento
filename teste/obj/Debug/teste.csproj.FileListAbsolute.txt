@@ -1,0 +1,15 @@
+C:\Users\Heron\source\repos\teste\teste\bin\Debug\teste.exe.config
+C:\Users\Heron\source\repos\teste\teste\bin\Debug\teste.exe
+C:\Users\Heron\source\repos\teste\teste\bin\Debug\teste.pdb
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.exe
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.pdb
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.inicio.resources
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.Entrada_de_veiculos.resources
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.controle_de_vagas.resources
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.saida.resources
+C:\Users\Heron\source\repos\teste\teste\obj\Debug\teste.finalizar.resources
